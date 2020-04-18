@@ -1,6 +1,6 @@
-# JFrog Artifactory High Availability Helm Chart
+# Moodle LMS
 
-Universal Repository Manager supporting all major packaging formats, build tools and CI servers.
+Moodle is the world’s open source learning platform that allows educators to create a private space online and easily build courses and activities with flexible software tools for collaborative online learning.
 
 ## Chart Details
 This chart will do the following:
