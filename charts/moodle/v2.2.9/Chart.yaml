@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: 7.3.2
 description: Moodle LMS
 home: https://www.jfrog.com/artifactory/
-icon: https://github.com/arashkaffamanesh/charts/blob/master/charts/moodle/v2.2.9/logo/moodle-logo.png
+icon: https://raw.githubusercontent.com/arashkaffamanesh/charts/master/charts/moodle/v2.2.9/logo/moodle-logo.png
 keywords:
 - artifactory
 - jfrog
