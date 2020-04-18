@@ -10,7 +10,7 @@ keywords:
 maintainers:
 - email: amithk@jfrog.com
   name: amithins
-name: Moodle
+name: moodle
 sources:
 - https://bintray.com/jfrog/product/JFrog-Artifactory-Pro/view
 - https://github.com/jfrog/charts
